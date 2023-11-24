@@ -1,0 +1,1 @@
+{"yh_data_v0": {"script_url": "yh_data_v0", "columns": {"prompt": "instruction", "query": "input", "response": "output", "history": "history"}, "stage": "sft"}, "yh_data_v1": {"script_url": "yh_data_v1", "columns": {"prompt": "instruction", "query": "input", "response": "output", "history": "history"}, "stage": "sft"}}
